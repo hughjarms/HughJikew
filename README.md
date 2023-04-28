@@ -1,2 +1,3 @@
 # HughJikew
-The Hugh Mannety Project
+
+A Hugh Mannety Project
